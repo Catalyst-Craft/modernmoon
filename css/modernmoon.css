@@ -2729,7 +2729,7 @@ body {
 }
 .dark-mode .card {
     color: rgba(255, 255, 255, 0.8);
-    background-color: #191c20;
+    filter: blur(4px);
     background-image: none;
     border-color: rgba(0, 0, 0, 0.2);
     -moz-box-shadow: none;
